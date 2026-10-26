@@ -1,0 +1,67 @@
+{
+ "built_at": "2026-10-26 22:39",
+ "title": "주식 분석 결과",
+ "pages": [
+  "index.html",
+  "cross.html",
+  "scan.html",
+  "pattern.html",
+  "forecast.html",
+  "rs.html",
+  "review.html"
+ ],
+ "sources": {
+  "cross": {
+   "asof": "2026-10-26",
+   "stale": false,
+   "age_days": 0,
+   "rows": 387,
+   "error": null
+  },
+  "scan": {
+   "asof": "2026-10-26",
+   "stale": false,
+   "age_days": 0,
+   "rows": 9,
+   "error": null
+  },
+  "pattern": {
+   "asof": "2026-10-22",
+   "stale": false,
+   "age_days": 4,
+   "rows": 30,
+   "error": null
+  },
+  "forecast": {
+   "asof": "2026-10-22",
+   "stale": false,
+   "age_days": 4,
+   "rows": 22,
+   "error": null
+  },
+  "rs": {
+   "asof": "2026-07-09",
+   "stale": true,
+   "age_days": 109,
+   "rows": 47,
+   "error": null
+  },
+  "review": {
+   "asof": "2026-10-26",
+   "stale": false,
+   "age_days": 0,
+   "rows": null,
+   "error": null
+  }
+ },
+ "max_age_days": 30,
+ "disclaimer": "모든 수치는 과거 자료로 계산한 투자 참고 자료이며 매매 권유가 아닙니다. 투자 판단과 책임은 이용자에게 있습니다.",
+ "forbidden": [],
+ "deploy": {
+  "target": "folder",
+  "ok": true,
+  "detail": "배포 꺼짐(publish.enabled=false) — 폴더에 생성만 함",
+  "url": "D:\\Temp\\Temp4Claude\\Stock_Fuction_Integ\\data\\output\\public",
+  "at": "2026-10-26 22:39"
+ }
+}

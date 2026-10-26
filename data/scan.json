@@ -1,0 +1,148 @@
+{
+ "asof": "2026-10-26",
+ "rows": [
+  {
+   "exchange": "KOSDAQ",
+   "rank": 1,
+   "code": "900110",
+   "name": "딥커머스",
+   "price": 5710.0,
+   "expected_pct": 0.7,
+   "target_price": 6214.193,
+   "downside_pct": 23.95,
+   "score": 16.17,
+   "signals": 2,
+   "observation_only": false
+  },
+  {
+   "exchange": "KOSDAQ",
+   "rank": 1,
+   "code": "900110",
+   "name": "딥커머스",
+   "price": 5710.0,
+   "expected_pct": 0.83,
+   "target_price": 6214.193,
+   "downside_pct": 23.95,
+   "score": 10.32,
+   "signals": 2,
+   "observation_only": false
+  },
+  {
+   "exchange": "KOSDAQ",
+   "rank": 2,
+   "code": "032580",
+   "name": "피델릭스",
+   "price": 7040.0,
+   "expected_pct": 1.35,
+   "target_price": 7281.472,
+   "downside_pct": 18.58,
+   "score": 34.52,
+   "signals": 2,
+   "observation_only": false
+  },
+  {
+   "exchange": "KOSDAQ",
+   "rank": 2,
+   "code": "032580",
+   "name": "피델릭스",
+   "price": 7040.0,
+   "expected_pct": 1.39,
+   "target_price": 7281.472,
+   "downside_pct": 18.58,
+   "score": 37.82,
+   "signals": 2,
+   "observation_only": false
+  },
+  {
+   "exchange": "KOSPI",
+   "rank": 1,
+   "code": "030000",
+   "name": "제일기획",
+   "price": 19580.0,
+   "expected_pct": 0.75,
+   "target_price": 19730.0,
+   "downside_pct": 4.01,
+   "score": 13.55,
+   "signals": 0,
+   "observation_only": true
+  },
+  {
+   "exchange": "KOSPI",
+   "rank": 2,
+   "code": "033780",
+   "name": "KT&G",
+   "price": 193800.0,
+   "expected_pct": 0.45,
+   "target_price": 194700.0,
+   "downside_pct": 4.74,
+   "score": -8.14,
+   "signals": 0,
+   "observation_only": true
+  },
+  {
+   "exchange": "KOSPI",
+   "rank": 3,
+   "code": "000080",
+   "name": "하이트진로",
+   "price": 15850.0,
+   "expected_pct": -0.64,
+   "target_price": 15750.0,
+   "downside_pct": 4.38,
+   "score": 3.64,
+   "signals": 0,
+   "observation_only": true
+  },
+  {
+   "exchange": "KOSPI",
+   "rank": 4,
+   "code": "002320",
+   "name": "한진",
+   "price": 16900.0,
+   "expected_pct": -1.85,
+   "target_price": 16590.0,
+   "downside_pct": 5.64,
+   "score": 14.12,
+   "signals": 0,
+   "observation_only": true
+  },
+  {
+   "exchange": "KOSPI",
+   "rank": 5,
+   "code": "012750",
+   "name": "에스원",
+   "price": 96700.0,
+   "expected_pct": 0.45,
+   "target_price": 97200.0,
+   "downside_pct": 6.08,
+   "score": -1.6,
+   "signals": 0,
+   "observation_only": true
+  }
+ ],
+ "sessions": [
+  {
+   "exchange": "ALL",
+   "items": 2,
+   "regime": "bear",
+   "gate_allow": true,
+   "gate_reason": "bear 레짐이나 베이스레이트 38.9%로 오버라이드 허용",
+   "notice": null
+  },
+  {
+   "exchange": "KOSDAQ",
+   "items": 2,
+   "regime": "bear",
+   "gate_allow": true,
+   "gate_reason": "bear 레짐이나 베이스레이트 38.9%로 오버라이드 허용",
+   "notice": null
+  },
+  {
+   "exchange": "KOSPI",
+   "items": 5,
+   "regime": "bear",
+   "gate_allow": true,
+   "gate_reason": "bear 레짐이나 베이스레이트 38.9%로 오버라이드 허용",
+   "notice": "한달 내 10% 상승 가능 종목 후보 없음"
+  }
+ ]
+}
