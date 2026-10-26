@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-26 22:39",
+ "built_at": "2026-10-26 23:46",
  "title": "주식 분석 결과",
  "pages": [
   "index.html",
@@ -56,12 +56,5 @@
  },
  "max_age_days": 30,
  "disclaimer": "모든 수치는 과거 자료로 계산한 투자 참고 자료이며 매매 권유가 아닙니다. 투자 판단과 책임은 이용자에게 있습니다.",
- "forbidden": [],
- "deploy": {
-  "target": "folder",
-  "ok": true,
-  "detail": "배포 꺼짐(publish.enabled=false) — 폴더에 생성만 함",
-  "url": "D:\\Temp\\Temp4Claude\\Stock_Fuction_Integ\\data\\output\\public",
-  "at": "2026-10-26 22:39"
- }
+ "forbidden": []
 }
