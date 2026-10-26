@@ -27,6 +27,7 @@ table { border-collapse: collapse; width: 100%; font-size: 13px; }
 th, td { border-bottom: 1px solid var(--line); padding: 6px 8px; text-align: left; white-space: nowrap; }
 th { background: #f0f4fa; font-weight: 600; }
 td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+td.center, th.center { text-align: center; }
 td.wrap { white-space: normal; max-width: 520px; }
 .up { color: var(--up); }
 .down { color: var(--down); }
