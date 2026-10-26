@@ -7,36 +7,10 @@
    "code": "900110",
    "name": "딥커머스",
    "price": 5710.0,
-   "expected_pct": 0.7,
-   "target_price": 6214.193,
-   "downside_pct": 23.95,
-   "score": 16.17,
-   "signals": 2,
-   "observation_only": false
-  },
-  {
-   "exchange": "KOSDAQ",
-   "rank": 1,
-   "code": "900110",
-   "name": "딥커머스",
-   "price": 5710.0,
    "expected_pct": 0.83,
    "target_price": 6214.193,
    "downside_pct": 23.95,
    "score": 10.32,
-   "signals": 2,
-   "observation_only": false
-  },
-  {
-   "exchange": "KOSDAQ",
-   "rank": 2,
-   "code": "032580",
-   "name": "피델릭스",
-   "price": 7040.0,
-   "expected_pct": 1.35,
-   "target_price": 7281.472,
-   "downside_pct": 18.58,
-   "score": 34.52,
    "signals": 2,
    "observation_only": false
   },
@@ -120,14 +94,6 @@
   }
  ],
  "sessions": [
-  {
-   "exchange": "ALL",
-   "items": 2,
-   "regime": "bear",
-   "gate_allow": true,
-   "gate_reason": "bear 레짐이나 베이스레이트 38.9%로 오버라이드 허용",
-   "notice": null
-  },
   {
    "exchange": "KOSDAQ",
    "items": 2,
