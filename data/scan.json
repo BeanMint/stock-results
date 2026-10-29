@@ -1,50 +1,38 @@
 {
- "asof": "2026-10-29",
+ "asof": "2026-10-30",
  "rows": [
   {
    "exchange": "KOSDAQ",
    "rank": 1,
+   "code": "030960",
+   "name": "양지사",
+   "price": 5780.0,
+   "expected_pct": 0.44,
+   "target_price": 5920.0,
+   "downside_pct": 16.95,
+   "score": 32.36,
+   "observation_only": false
+  },
+  {
+   "exchange": "KOSDAQ",
+   "rank": 2,
    "code": "211270",
    "name": "AP위성",
    "price": 8780.0,
    "expected_pct": 0.86,
    "target_price": 8870.0,
    "downside_pct": 15.28,
-   "score": 30.94,
-   "observation_only": false
-  },
-  {
-   "exchange": "KOSDAQ",
-   "rank": 3,
-   "code": "030960",
-   "name": "양지사",
-   "price": 5780.0,
-   "expected_pct": 0.31,
-   "target_price": 5920.0,
-   "downside_pct": 16.95,
-   "score": 30.3,
-   "observation_only": false
-  },
-  {
-   "exchange": "KOSPI",
-   "rank": 2,
-   "code": "010580",
-   "name": "에스엠벡셀",
-   "price": 3145.0,
-   "expected_pct": 0.7,
-   "target_price": 3365.0,
-   "downside_pct": 23.55,
-   "score": 12.2,
+   "score": 26.17,
    "observation_only": false
   }
  ],
  "sessions": [
   {
    "exchange": "ALL",
-   "items": 3,
+   "items": 2,
    "regime": "bear",
    "gate_allow": true,
-   "gate_reason": "bear 레짐이나 베이스레이트 37.1%로 오버라이드 허용",
+   "gate_reason": "bear 레짐이나 베이스레이트 37.3%로 오버라이드 허용",
    "notice": null
   }
  ]
