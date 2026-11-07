@@ -1,72 +1,40 @@
 {
- "asof": "2026-11-03",
- "price_asof": "2026-11-02",
+ "asof": "2026-11-07",
+ "price_asof": "2026-11-06",
  "rows": [
   {
-   "exchange": "KOSDAQ",
-   "rank": 1,
-   "code": "098120",
-   "name": "마이크로컨텍솔",
-   "price": 54900.0,
-   "expected_pct": 0.4,
-   "target_price": 55900.0,
-   "downside_pct": 17.08,
-   "score": 25.21,
-   "observation_only": false
-  },
-  {
-   "exchange": "KOSDAQ",
-   "rank": 2,
-   "code": "051980",
-   "name": "중앙첨단소재",
-   "price": 6110.0,
-   "expected_pct": 5.97,
-   "target_price": 6550.0,
-   "downside_pct": 25.19,
-   "score": 20.37,
-   "observation_only": false
-  },
-  {
    "exchange": "KOSPI",
    "rank": 1,
-   "code": "402340",
-   "name": "SK스퀘어",
-   "price": 950000.0,
-   "expected_pct": -0.3,
-   "target_price": 987000.0,
-   "downside_pct": 15.29,
-   "score": 23.88,
-   "observation_only": false
+   "code": "009190",
+   "name": "대양금속",
+   "price": 830.0,
+   "expected_pct": 5.73,
+   "target_price": 949.0,
+   "downside_pct": 103.16,
+   "score": -136.09,
+   "observation_only": true
   },
   {
    "exchange": "KOSPI",
    "rank": 2,
-   "code": "017900",
-   "name": "광전자",
-   "price": 9110.0,
-   "expected_pct": 4.8,
-   "target_price": 9130.0,
-   "downside_pct": 19.44,
-   "score": 17.44,
-   "observation_only": false
+   "code": "004835",
+   "name": "덕성우",
+   "price": 5380.0,
+   "expected_pct": 14.59,
+   "target_price": 5610.0,
+   "downside_pct": 16.97,
+   "score": 30.66,
+   "observation_only": true
   }
  ],
  "sessions": [
   {
-   "exchange": "KOSDAQ",
+   "exchange": "ALL",
    "items": 2,
    "regime": "bear",
-   "gate_allow": true,
-   "gate_reason": "bear 레짐이나 베이스레이트 35.7%로 오버라이드 허용",
-   "notice": null
-  },
-  {
-   "exchange": "KOSPI",
-   "items": 2,
-   "regime": "bear",
-   "gate_allow": true,
-   "gate_reason": "bear 레짐이나 베이스레이트 35.7%로 오버라이드 허용",
-   "notice": null
+   "gate_allow": false,
+   "gate_reason": "약세 레짐(bear) · 베이스레이트 16.6% < 25% (최근 20거래일 전 종목 +10% 터치율)",
+   "notice": "시장 게이트 차단 — 약세 레짐(bear) · 베이스레이트 16.6% < 25% (최근 20거래일 전 종목 +10% 터치율) · 현금 비중 권고"
   }
  ]
 }
