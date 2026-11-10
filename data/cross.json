@@ -36,7 +36,7 @@
  },
  "lake": {
   "asof": "2026-11-06",
-  "lagDays": 2,
+  "lagDays": 5,
   "universe": 770,
   "reason": null,
   "basis": "rank_score",
