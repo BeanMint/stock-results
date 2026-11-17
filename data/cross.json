@@ -1,11 +1,11 @@
 {
- "asof": "2026-11-13",
+ "asof": "2026-11-17",
  "methods": {
   "scan": {
    "label": "주식 스캔",
    "horizon": "20거래일 +10% 터치",
    "page": "/ui/scan",
-   "asof": "2026-11-07",
+   "asof": "2026-11-17",
    "items": 0,
    "error": null
   },
@@ -36,7 +36,7 @@
  },
  "lake": {
   "asof": "2026-11-13",
-  "lagDays": 4,
+  "lagDays": 5,
   "universe": 753,
   "reason": null,
   "basis": "rank_score",

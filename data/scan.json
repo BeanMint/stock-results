@@ -1,40 +1,96 @@
 {
- "asof": "2026-11-07",
- "price_asof": "2026-11-06",
+ "asof": "2026-11-17",
+ "price_asof": "2026-11-16",
  "rows": [
+  {
+   "exchange": "KOSDAQ",
+   "rank": 1,
+   "code": "131290",
+   "name": "티에스이",
+   "price": 225500.0,
+   "expected_pct": 5.19,
+   "target_price": 246500.0,
+   "downside_pct": 24.3,
+   "score": -0.12,
+   "observation_only": true
+  },
+  {
+   "exchange": "KOSDAQ",
+   "rank": 2,
+   "code": "159010",
+   "name": "아스플로",
+   "price": 32400.0,
+   "expected_pct": 2.21,
+   "target_price": 34800.0,
+   "downside_pct": 23.87,
+   "score": -1.03,
+   "observation_only": true
+  },
+  {
+   "exchange": "KOSDAQ",
+   "rank": 3,
+   "code": "219130",
+   "name": "타이거일렉",
+   "price": 100700.0,
+   "expected_pct": -1.52,
+   "target_price": 103500.0,
+   "downside_pct": 20.6,
+   "score": 15.23,
+   "observation_only": true
+  },
   {
    "exchange": "KOSPI",
    "rank": 1,
-   "code": "009190",
-   "name": "대양금속",
-   "price": 830.0,
-   "expected_pct": 5.73,
-   "target_price": 949.0,
-   "downside_pct": 103.16,
-   "score": -136.09,
+   "code": "267850",
+   "name": "아시아나IDT",
+   "price": 12700.0,
+   "expected_pct": 2.82,
+   "target_price": 13310.0,
+   "downside_pct": 25.18,
+   "score": 0.26,
    "observation_only": true
   },
   {
    "exchange": "KOSPI",
    "rank": 2,
-   "code": "004835",
-   "name": "덕성우",
-   "price": 5380.0,
-   "expected_pct": 14.59,
-   "target_price": 5610.0,
-   "downside_pct": 16.97,
-   "score": 30.66,
+   "code": "090370",
+   "name": "메타랩스",
+   "price": 1137.0,
+   "expected_pct": 8.72,
+   "target_price": 1300.0,
+   "downside_pct": 24.62,
+   "score": 7.76,
+   "observation_only": true
+  },
+  {
+   "exchange": "KOSPI",
+   "rank": 3,
+   "code": "003780",
+   "name": "진양산업",
+   "price": 6600.0,
+   "expected_pct": 0.3,
+   "target_price": 6650.0,
+   "downside_pct": 12.7,
+   "score": 41.21,
    "observation_only": true
   }
  ],
  "sessions": [
   {
-   "exchange": "ALL",
-   "items": 2,
+   "exchange": "KOSDAQ",
+   "items": 3,
    "regime": "bear",
    "gate_allow": false,
-   "gate_reason": "약세 레짐(bear) · 베이스레이트 16.6% < 25% (최근 20거래일 전 종목 +10% 터치율)",
-   "notice": "시장 게이트 차단 — 약세 레짐(bear) · 베이스레이트 16.6% < 25% (최근 20거래일 전 종목 +10% 터치율) · 현금 비중 권고"
+   "gate_reason": "약세 레짐(bear) · 베이스레이트 19.8% < 25% (최근 20거래일 전 종목 +10% 터치율)",
+   "notice": "시장 게이트 차단 — 약세 레짐(bear) · 베이스레이트 19.8% < 25% (최근 20거래일 전 종목 +10% 터치율) · 현금 비중 권고"
+  },
+  {
+   "exchange": "KOSPI",
+   "items": 3,
+   "regime": "bear",
+   "gate_allow": false,
+   "gate_reason": "약세 레짐(bear) · 베이스레이트 19.8% < 25% (최근 20거래일 전 종목 +10% 터치율)",
+   "notice": "시장 게이트 차단 — 약세 레짐(bear) · 베이스레이트 19.8% < 25% (최근 20거래일 전 종목 +10% 터치율) · 현금 비중 권고"
   }
  ]
 }
