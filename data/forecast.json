@@ -1,216 +1,225 @@
 {
- "asof": "2026-11-16",
+ "asof": "2026-11-20",
  "horizon_days": 5,
  "universe_size": 150,
  "rows": [
   {
    "rank": 1,
-   "code": "031980",
-   "name": "피에스케이홀딩스",
-   "close": 131700.0,
-   "votes": 1,
-   "weighted_return_pct": 11.5,
-   "methods": "시계열(ARIMA/Prophet)"
+   "code": "017670",
+   "name": "SK텔레콤",
+   "close": 69700.0,
+   "votes": 2,
+   "weighted_return_pct": 4.81,
+   "methods": "ML(LightGBM) · 시계열(ARIMA/Prophet)"
   },
   {
    "rank": 2,
-   "code": "009420",
-   "name": "한올바이오파마",
-   "close": 50800.0,
+   "code": "277810",
+   "name": "레인보우로보틱스",
+   "close": 408000.0,
    "votes": 1,
-   "weighted_return_pct": 10.37,
+   "weighted_return_pct": 10.82,
    "methods": "기술적 분석"
   },
   {
    "rank": 3,
-   "code": "028050",
-   "name": "삼성E&A",
-   "close": 68400.0,
+   "code": "009420",
+   "name": "한올바이오파마",
+   "close": 53800.0,
    "votes": 1,
-   "weighted_return_pct": 8.25,
+   "weighted_return_pct": 9.49,
    "methods": "기술적 분석"
   },
   {
    "rank": 4,
-   "code": "003490",
-   "name": "대한항공",
-   "close": 31700.0,
+   "code": "352820",
+   "name": "하이브",
+   "close": 183600.0,
    "votes": 1,
-   "weighted_return_pct": 6.27,
+   "weighted_return_pct": 7.77,
    "methods": "기술적 분석"
   },
   {
    "rank": 5,
-   "code": "006360",
-   "name": "GS건설",
-   "close": 31200.0,
+   "code": "003490",
+   "name": "대한항공",
+   "close": 31400.0,
    "votes": 1,
-   "weighted_return_pct": 5.73,
+   "weighted_return_pct": 5.75,
    "methods": "기술적 분석"
   },
   {
    "rank": 6,
-   "code": "003230",
-   "name": "삼양식품",
-   "close": 1285000.0,
+   "code": "0126Z0",
+   "name": "삼성에피스홀딩스",
+   "close": 349000.0,
    "votes": 1,
-   "weighted_return_pct": 5.48,
+   "weighted_return_pct": 5.63,
    "methods": "기술적 분석"
   },
   {
    "rank": 7,
-   "code": "192820",
-   "name": "코스맥스",
-   "close": 285000.0,
+   "code": "022100",
+   "name": "포스코DX",
+   "close": 20900.0,
    "votes": 1,
-   "weighted_return_pct": 5.45,
+   "weighted_return_pct": 4.44,
    "methods": "기술적 분석"
   },
   {
    "rank": 8,
-   "code": "086280",
-   "name": "현대글로비스",
-   "close": 207000.0,
+   "code": "326030",
+   "name": "SK바이오팜",
+   "close": 86800.0,
    "votes": 1,
-   "weighted_return_pct": 5.4,
+   "weighted_return_pct": 4.39,
    "methods": "기술적 분석"
   },
   {
    "rank": 9,
-   "code": "009150",
-   "name": "삼성전기",
-   "close": 785000.0,
+   "code": "214450",
+   "name": "파마리서치",
+   "close": 275000.0,
    "votes": 1,
-   "weighted_return_pct": 5.13,
-   "methods": "시계열(ARIMA/Prophet)"
+   "weighted_return_pct": 4.31,
+   "methods": "기술적 분석"
   },
   {
    "rank": 10,
-   "code": "009830",
-   "name": "한화솔루션",
-   "close": 22150.0,
+   "code": "035420",
+   "name": "NAVER",
+   "close": 161600.0,
    "votes": 1,
-   "weighted_return_pct": 5.02,
+   "weighted_return_pct": 4.26,
    "methods": "시계열(ARIMA/Prophet)"
   },
   {
    "rank": 11,
-   "code": "018260",
-   "name": "삼성에스디에스",
-   "close": 229000.0,
+   "code": "000810",
+   "name": "삼성화재",
+   "close": 511000.0,
    "votes": 1,
-   "weighted_return_pct": 4.94,
-   "methods": "기술적 분석"
+   "weighted_return_pct": 4.25,
+   "methods": "시계열(ARIMA/Prophet)"
   },
   {
    "rank": 12,
-   "code": "0126Z0",
-   "name": "삼성에피스홀딩스",
-   "close": 356500.0,
+   "code": "064350",
+   "name": "현대로템",
+   "close": 61600.0,
    "votes": 1,
-   "weighted_return_pct": 4.91,
-   "methods": "기술적 분석"
+   "weighted_return_pct": 2.59,
+   "methods": "ML(LightGBM)"
   },
   {
    "rank": 13,
-   "code": "026960",
-   "name": "동서",
-   "close": 27550.0,
+   "code": "001450",
+   "name": "현대해상",
+   "close": 33300.0,
    "votes": 1,
-   "weighted_return_pct": 2.7,
-   "methods": "시계열(ARIMA/Prophet)"
+   "weighted_return_pct": 2.36,
+   "methods": "ML(LightGBM)"
   },
   {
    "rank": 14,
-   "code": "402340",
-   "name": "SK스퀘어",
-   "close": 688000.0,
+   "code": "012330",
+   "name": "현대모비스",
+   "close": 323000.0,
    "votes": 1,
-   "weighted_return_pct": 1.52,
-   "methods": "시계열(ARIMA/Prophet)"
+   "weighted_return_pct": 2.33,
+   "methods": "ML(LightGBM)"
   },
   {
    "rank": 15,
-   "code": "034730",
-   "name": "SK",
-   "close": 475500.0,
+   "code": "031210",
+   "name": "서울보증보험",
+   "close": 38050.0,
    "votes": 1,
-   "weighted_return_pct": 1.34,
-   "methods": "시계열(ARIMA/Prophet)"
+   "weighted_return_pct": 2.3,
+   "methods": "ML(LightGBM)"
   },
   {
    "rank": 16,
-   "code": "005930",
-   "name": "삼성전자",
-   "close": 196800.0,
+   "code": "042660",
+   "name": "한화오션",
+   "close": 42100.0,
    "votes": 1,
-   "weighted_return_pct": 1.28,
-   "methods": "시계열(ARIMA/Prophet)"
+   "weighted_return_pct": 2.29,
+   "methods": "ML(LightGBM)"
   },
   {
    "rank": 17,
-   "code": "079550",
-   "name": "LIG디펜스앤에어로스페이스",
-   "close": 356000.0,
+   "code": "010130",
+   "name": "고려아연",
+   "close": 745000.0,
    "votes": 1,
-   "weighted_return_pct": 1.08,
+   "weighted_return_pct": 2.28,
    "methods": "ML(LightGBM)"
   },
   {
    "rank": 18,
-   "code": "000150",
-   "name": "두산",
-   "close": 580000.0,
+   "code": "009540",
+   "name": "HD한국조선해양",
+   "close": 222500.0,
    "votes": 1,
-   "weighted_return_pct": 0.73,
+   "weighted_return_pct": 2.26,
    "methods": "ML(LightGBM)"
   },
   {
    "rank": 19,
-   "code": "015760",
-   "name": "한국전력",
-   "close": 26800.0,
+   "code": "088350",
+   "name": "한화생명",
+   "close": 3500.0,
    "votes": 1,
-   "weighted_return_pct": 0.73,
+   "weighted_return_pct": 2.24,
    "methods": "ML(LightGBM)"
   },
   {
    "rank": 20,
-   "code": "031210",
-   "name": "서울보증보험",
-   "close": 40650.0,
+   "code": "010140",
+   "name": "삼성중공업",
+   "close": 15120.0,
    "votes": 1,
-   "weighted_return_pct": 0.69,
+   "weighted_return_pct": 2.2,
    "methods": "ML(LightGBM)"
   },
   {
    "rank": 21,
-   "code": "259960",
-   "name": "크래프톤",
-   "close": 199100.0,
+   "code": "033780",
+   "name": "KT&G",
+   "close": 181000.0,
    "votes": 1,
-   "weighted_return_pct": 0.67,
+   "weighted_return_pct": 2.11,
+   "methods": "시계열(ARIMA/Prophet)"
+  },
+  {
+   "rank": 22,
+   "code": "021240",
+   "name": "코웨이",
+   "close": 105200.0,
+   "votes": 1,
+   "weighted_return_pct": 0.76,
    "methods": "시계열(ARIMA/Prophet)"
   }
  ],
  "agents": [
   {
    "label": "기술적 분석",
-   "summary": "유니버스 150종목 중 기준일 2026-11-16 기준 기술적 복합점수 상위 종목은 대부분 MACD 히스토그램 양(+) 유지와 이동평균 정배열(5>20>60)을 공통 기반으로 하며, RSI가 53~70 구간에 분포해 과매수 임계(75) 아래에서 추세가 살아 있는 상태입니다. 볼린저 %b는 0.78~0.98로 상단부 추세이나 밴드 상단 이탈(>1.0) 종목은 없어 즉각적 평균회귀 위험은 제한적입니다. 다만 상위권 일부는 20일 수익률이 +50%를 넘는 급등 이후 구간이어서 이격 확대에 따른 변동성 확대 가능성이 있고, 극단적 확장 상태인 한진칼(5/20 이격 +31.2%, 20일 수익률 +76.6%, 주간 변동성 18.6%)은 과열로 판단해 제외했습니다. 나머지 9개는 거래량 동반(5/20 거래량비 0.64~1.86)과 20일 신고가 돌파·근접을 근거로 5거래일 관점의 추세 지속 가능성이 상대적으로 높은 조합입니다.",
+   "summary": "유니버스 150종목 중 2026-11-20 종가 기준 복합 기술점수 상위 10개를 받아 과열 2종목을 제외한 8개를 제시한다. 공통 특징은 MACD 히스토그램이 모두 양(+)으로 유지되고 RSI가 51~68의 비과열 상승 구간에 있으며, 5일 이평이 20일 이평 위에 있는 단기 정배열 또는 상향 돌파 상태라는 점이다. 또한 8개 모두 최근 5일 시장(지수) 대비 초과수익이 +6.3%p 이상으로 상대강도가 확인된다. 반면 20일 수익률 +96.5%에 거래량이 20일 평균의 0.54배로 줄어든 한진칼과 볼린저 상단을 이탈(%b 1.05)한 신세계는 추세 지속보다 되돌림 위험이 커 제외했다. 기대수익률 4~11% 구간에 분포하며 신뢰도는 0.63~0.69로, 레인보우로보틱스·파마리서치처럼 MACD 히스토그램이 +2.8~3.0%대이면서 거래량이 동반 증가한 종목의 신호 품질이 상대적으로 양호하다.",
    "llm_used": true,
-   "picks": 9
+   "picks": 8
   },
   {
    "label": "ML(LightGBM)",
-   "summary": "기준일 2026-11-16 유니버스 150종목 패널로 학습한 LightGBM 횡단면 모델(5거래일, n_iter 596)의 검증 IC는 +0.140으로 기준선 0.03을 크게 상회해 순위 신호의 신뢰도 자체는 양호하다. 다만 상위 후보 전원에게 '시장 20일 수익률 -11.57'이 -1.88 ~ -2.54%p의 공통 감점으로 작용해, 지수 조정 국면에서 개별 과매도 반등력(60일 수익률 급락, 볼린저 %b 하단, 20일선 이격도 마이너스)으로 이를 상쇄한 평균회귀형 종목들만 살아남은 구조다. 결과적으로 기대수익률이 +0.69~+1.08%, z-score +1.92~+2.15 구간에 촘촘히 몰려 있어 종목 간 우열이 사실상 미미하고 절대 기대수익도 얇으므로, 상위 1~2개 집중보다 4종목 균등 분산 후 시장 반등 확인 시까지 포지션 규모를 축소하는 운용이 타당하다. 모델이 top_n=10 요청에도 4종목만 반환한 점 역시 현 시장에서 유효한 롱 후보가 희소하다는 신호로 해석한다.",
+   "summary": "2026-11-20 기준 유니버스 150종목 1년 패널로 학습한 LightGBM 횡단면 모델(5거래일 horizon, 부스팅 157회)의 검증 IC는 +0.129로 0.03 기준을 크게 상회해 신호 신뢰도는 양호한 구간이다. 다만 시장 5일 수익률 -7.95%, 20일 수익률 -12.26%로 지수 자체가 급락 국면이며, 상위 10종목의 예측을 끌어올린 최대 기여 피처가 예외 없이 볼린저 %b(-0.11~+0.02, 하단 밴드 접촉)로 +1.89~+2.41%p를 차지한다는 점에서 이번 선정은 사실상 '과매도 단기 평균회귀' 단일 베팅이다. 시장 5일 수익률이 공통 가점(+0.56~0.67%p), 20일 수익률이 공통 감점(-0.57~-0.79%p)으로 들어가 중기 추세는 여전히 역풍임을 모델도 인식하고 있어, 되돌림이 불발되고 하락이 연장되면 10종목이 동시에 틀릴 상관 위험이 크다. 또한 보험·금융 3종과 조선 3종이 포함돼 섹터 편중이 뚜렷하므로 종목 수만큼의 분산 효과를 기대하기 어렵고, 예상 상승률 2~3.5% 수준은 손절 폭을 좁게 잡고 분할 접근하는 운용이 적절하다.",
    "llm_used": true,
-   "picks": 4
+   "picks": 10
   },
   {
    "label": "시계열(ARIMA/Prophet)",
-   "summary": "기준일 2026-11-16, 150종목 유니버스에 로그수익률 ARIMA(p,0,q)를 AIC로 선택 적합하고 상위 후보를 Prophet 추세로 교차검증한 결과, 5거래일 누적 예측은 +0.67~+9.95% 범위였으나 예측 표준오차가 5.5~26.1%p에 달해 t-stat이 전 종목 0.08~0.49(모두 0.5 미만)로 통계적 유의성은 확보되지 않았다. 즉 이번 구간의 시장은 모형 관점에서 방향성 신호보다 변동성이 압도하는 상태이며, 아래 종목들은 '유의한 상승'이 아니라 '점추정 부호가 양(+)이고 Prophet 추세와 방향이 일치하거나 예측 분산이 상대적으로 작은' 상대 우위 후보로만 해석해야 한다. Prophet과 방향이 불일치한 원익IPS, 표준오차가 ±26.13%p로 최대이고 교차검증이 없는 가온전선은 제외했다. 상위 4종목(피에스케이홀딩스·한화솔루션·삼성전기·동서)만 ARIMA+Prophet 앙상블로 방향 확인이 되었고, 나머지는 단일 ARIMA 결과이므로 신뢰도가 더 낮다. 실매매 적용 시에는 분할 진입과 손절 기준을 병행하고, 특히 ±15%p 이상 표준오차 종목은 비중을 최소화하는 것이 합리적이다.",
+   "summary": "2026-11-20 기준 150종목 유니버스에 ARIMA(p,0,q)를 AIC로 선택 적합한 결과, 상위 10개 후보 전부 5거래일 누적 예측치가 표준오차의 절반에도 미치지 못해(t-stat 0.52~0.08) 통계적으로는 '예측 불가'에 가까운 국면이다. 또한 상위 후보 다수의 최근 180일 평균 드리프트가 음수(SK텔레콤 -0.46%, NAVER -1.33%, ISC -1.16%)여서 ARIMA의 양(+) 예측은 단기 자기상관 반전(MA항) 효과에 기인한 평균회귀 베팅 성격이 강하다. 이에 Prophet 추세 교차검증이 수행되고 방향이 일치하며 표준오차가 10%p 이하인 저변동성 5종목(통신·인터넷·보험·담배·가전렌탈)만 남기고, 표준오차 17%p대의 반도체·장비주(SK하이닉스·ISC)와 순수 백색잡음 적합(삼성E&A, ARIMA(0,0,0))은 제외했다. 전반적으로 신뢰도 0.32~0.53의 낮은 구간이므로 방향성 베팅보다 분산 보유·소액 집행이 타당하다.",
    "llm_used": true,
-   "picks": 8
+   "picks": 5
   }
  ]
 }
