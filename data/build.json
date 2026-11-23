@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-23 23:46",
+ "built_at": "2026-11-23 23:50",
  "title": "주식 분석 결과",
  "pages": [
   "index.html",
@@ -36,7 +36,7 @@
    "asof": "2026-11-20",
    "stale": false,
    "age_days": 3,
-   "rows": 21,
+   "rows": 22,
    "error": null
   },
   "rs": {
