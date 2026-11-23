@@ -3,6 +3,42 @@
  "price_asof": "2026-11-20",
  "rows": [
   {
+   "exchange": "KOSDAQ",
+   "rank": 1,
+   "code": "232680",
+   "name": "라온로보틱스",
+   "price": 12370.0,
+   "expected_pct": -0.9,
+   "target_price": 12570.0,
+   "downside_pct": 16.28,
+   "score": 13.98,
+   "observation_only": false
+  },
+  {
+   "exchange": "KOSDAQ",
+   "rank": 2,
+   "code": "340810",
+   "name": "시선AI",
+   "price": 3080.0,
+   "expected_pct": 5.9,
+   "target_price": 3675.0,
+   "downside_pct": 26.96,
+   "score": 4.43,
+   "observation_only": false
+  },
+  {
+   "exchange": "KOSDAQ",
+   "rank": 3,
+   "code": "134580",
+   "name": "엔키AX",
+   "price": 1634.0,
+   "expected_pct": 6.15,
+   "target_price": 2140.0,
+   "downside_pct": 26.33,
+   "score": 21.33,
+   "observation_only": false
+  },
+  {
    "exchange": "KOSPI",
    "rank": 1,
    "code": "281820",
@@ -28,6 +64,14 @@
   }
  ],
  "sessions": [
+  {
+   "exchange": "KOSDAQ",
+   "items": 3,
+   "regime": "bear",
+   "gate_allow": true,
+   "gate_reason": "참고(추천은 막지 않음) — 약세 레짐(bear). 과거 2016-02~2026-11 실측에서 이 조건인 날의 이후 20거래일 +10% 터치율은 44%로 그 외 39%보다 낮지 않았다",
+   "notice": null
+  },
   {
    "exchange": "KOSPI",
    "items": 2,
