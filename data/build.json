@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-24 23:42",
+ "built_at": "2026-11-26 00:06",
  "title": "주식 분석 결과",
  "pages": [
   "index.html",
@@ -12,44 +12,44 @@
  ],
  "sources": {
   "cross": {
-   "asof": "2026-11-24",
+   "asof": "2026-11-25",
    "stale": false,
-   "age_days": 0,
+   "age_days": 1,
    "rows": 661,
    "error": null
   },
   "scan": {
-   "asof": "2026-11-24",
+   "asof": "2026-11-25",
    "stale": false,
-   "age_days": 0,
-   "rows": 4,
+   "age_days": 1,
+   "rows": 6,
    "error": null
   },
   "pattern": {
-   "asof": "2026-11-23",
+   "asof": "2026-11-24",
    "stale": false,
-   "age_days": 1,
+   "age_days": 2,
    "rows": 30,
    "error": null
   },
   "forecast": {
    "asof": "2026-11-23",
    "stale": false,
-   "age_days": 1,
+   "age_days": 3,
    "rows": 21,
    "error": null
   },
   "rs": {
    "asof": "2026-11-23",
    "stale": false,
-   "age_days": 1,
+   "age_days": 3,
    "rows": 60,
    "error": null
   },
   "review": {
-   "asof": "2026-11-24",
+   "asof": "2026-11-25",
    "stale": false,
-   "age_days": 0,
+   "age_days": 1,
    "rows": null,
    "error": null
   }

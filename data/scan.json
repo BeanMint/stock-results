@@ -1,72 +1,96 @@
 {
- "asof": "2026-11-24",
- "price_asof": "2026-11-23",
+ "asof": "2026-11-25",
+ "price_asof": "2026-11-24",
  "rows": [
   {
    "exchange": "KOSDAQ",
    "rank": 1,
-   "code": "053610",
-   "name": "프로텍",
-   "price": 64100.0,
-   "expected_pct": -0.06,
-   "target_price": 64300.0,
-   "downside_pct": 18.23,
-   "score": 11.71,
-   "observation_only": false
-  },
-  {
-   "exchange": "KOSDAQ",
-   "rank": 2,
-   "code": "232680",
-   "name": "라온로보틱스",
-   "price": 12390.0,
-   "expected_pct": 0.26,
-   "target_price": 12690.0,
-   "downside_pct": 16.03,
-   "score": 20.34,
-   "observation_only": false
-  },
-  {
-   "exchange": "KOSDAQ",
-   "rank": 3,
-   "code": "030530",
-   "name": "원익홀딩스",
-   "price": 32050.0,
-   "expected_pct": -0.04,
-   "target_price": 32200.0,
-   "downside_pct": 18.98,
-   "score": 14.01,
+   "code": "129920",
+   "name": "대성하이텍",
+   "price": 5590.0,
+   "expected_pct": -0.98,
+   "target_price": 5710.0,
+   "downside_pct": 22.49,
+   "score": -6.18,
    "observation_only": false
   },
   {
    "exchange": "KOSPI",
    "rank": 1,
-   "code": "281820",
-   "name": "케이씨텍",
-   "price": 81500.0,
-   "expected_pct": 1.39,
-   "target_price": 86400.0,
-   "downside_pct": 21.39,
-   "score": 6.66,
-   "observation_only": false
+   "code": "089860",
+   "name": "롯데렌탈",
+   "price": 58600.0,
+   "expected_pct": 2.55,
+   "target_price": 60100.0,
+   "downside_pct": 3.25,
+   "score": -4.56,
+   "observation_only": true
+  },
+  {
+   "exchange": "KOSPI",
+   "rank": 2,
+   "code": "016090",
+   "name": "대현",
+   "price": 1486.0,
+   "expected_pct": -0.16,
+   "target_price": 1484.0,
+   "downside_pct": 4.53,
+   "score": -10.61,
+   "observation_only": true
+  },
+  {
+   "exchange": "KOSPI",
+   "rank": 3,
+   "code": "016580",
+   "name": "환인제약",
+   "price": 10930.0,
+   "expected_pct": -0.08,
+   "target_price": 10930.0,
+   "downside_pct": 4.77,
+   "score": 7.72,
+   "observation_only": true
+  },
+  {
+   "exchange": "KOSPI",
+   "rank": 4,
+   "code": "012750",
+   "name": "에스원",
+   "price": 101800.0,
+   "expected_pct": 0.18,
+   "target_price": 102000.0,
+   "downside_pct": 5.43,
+   "score": 10.98,
+   "observation_only": true
+  },
+  {
+   "exchange": "KOSPI",
+   "rank": 5,
+   "code": "024090",
+   "name": "디씨엠",
+   "price": 12290.0,
+   "expected_pct": 0.12,
+   "target_price": 12310.0,
+   "downside_pct": 4.89,
+   "score": 7.61,
+   "observation_only": true
   }
  ],
  "sessions": [
   {
    "exchange": "KOSDAQ",
-   "items": 3,
+   "items": 1,
    "regime": "bear",
    "gate_allow": true,
-   "gate_reason": "bear 레짐이나 베이스레이트 36.3%로 오버라이드 허용",
+   "gate_reason": "참고(추천은 막지 않음) — 약세 레짐(bear). 과거 2016-02~2026-11 실측에서 이 조건인 날의 이후 20거래일 +10% 터치율은 44%로 그 외 39%보다 낮지 않았다",
    "notice": null
   },
   {
    "exchange": "KOSPI",
-   "items": 1,
+   "items": 5,
    "regime": "bear",
    "gate_allow": true,
-   "gate_reason": "bear 레짐이나 베이스레이트 36.3%로 오버라이드 허용",
-   "notice": null
+   "gate_reason": "참고(추천은 막지 않음) — 약세 레짐(bear). 과거 2016-02~2026-11 실측에서 이 조건인 날의 이후 20거래일 +10% 터치율은 44%로 그 외 39%보다 낮지 않았다",
+   "notice": "한달 내 10% 상승 가능 종목 후보 없음"
   }
  ]
 }
